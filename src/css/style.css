@@ -16,6 +16,8 @@ a {
 
 .omg{
   font-size:500px;
+  position:fixed;
+  top:0px;
 }
 
 .bounce {
