@@ -1,8 +1,8 @@
 extends layout
 
 block content
-
-  marquee.up(direction="up") owned
+  - for (var i = 0; i < 30; ++i)
+      marquee.up(direction="up") owned
   div.lol
     marquee.bounce(direction="down" behavior="alternate")
       marquee(behavior="alternate") yes

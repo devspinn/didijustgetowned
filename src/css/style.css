@@ -17,7 +17,8 @@ a {
 .omg{
   font-size:500px;
   position:fixed;
-  top:0px;
+  top:0;
+  left:0;
 }
 .rainbow {
   background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
@@ -36,4 +37,7 @@ a {
 
 .lol {
   text-align:center;
+  position:fixed;
+  top:0;
+  width:100%;
 }
