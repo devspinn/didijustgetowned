@@ -15,8 +15,8 @@ This repository is a starting point for any node/express project. Grunt.js is al
 
 Clone the repository and npm install
 ```shell
-$ git clone https://github.com/marcusmolchany/node-express-grunt-starter
-$ cd node-express-grunt-starter
+$ git clone https://github.com/devspinn/didijustgetowned.git
+$ cd didijustgetowned
 $ npm install
 ```
 
